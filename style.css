@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   margin: 20px;
+   padding: 20px;
+   font-size: 15px;
+   text-decoration: none;
+   border: 3px solid navy;
+   border-radius: 10px;
+}
+h1{
+   background-color: lightgray; 
+   text-align: center;
+   padding: 10px;
+   margin: 50px;
+   
+}
+footer p{
+  border: 5px solid lightgray;
+}
+
+nav a{
+    margin: 40px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: DarkSlateGray;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+}
+nav{
+ margin:20px;
+ padding: 10px;
+}
+
+.crackers{
+   border: 3px solid navy;
+   border-radius: 10px;
+  padding: 10px;
+}
+h2{
+    color: blue;
+}
